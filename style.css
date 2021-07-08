@@ -219,7 +219,7 @@ button:hover {
 .footer-bar {
     height: -50px;
     max-width:100%;
-    background-image: linear-gradient(to right,#D30303, #BF2222, #A21F1F, #6E1919, #520C0C, #6A0202);
+    background-image: linear-gradient(to right,#8BACCD, #87AECE, #85B0CF, #6E1919, #520C0C, #6A0202);
 }
 
 .footer-text {
@@ -231,7 +231,7 @@ button:hover {
     
     height: 100vh;
     max-width: 100%;
-    background: url(/wp-content/uploads/2021/06/Valstrax_HighRes3-1-e1622748877998.png),rgba(255, 8, 8, 0.527) ; 
+    background: url(/wp-content/uploads/2021/06/logo-scaled.jpg),rgba(255, 8, 8, 0.527) ; 
     background-size: cover;
     background-position: center;
     z-index: 1;
