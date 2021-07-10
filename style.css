@@ -219,7 +219,7 @@ button:hover {
 .footer-bar {
     height: -50px;
     max-width:100%;
-    background-image: linear-gradient(to right,#8BACCD, #87AECE, #85B0CF, #6E1919, #520C0C, #6A0202);
+    background-image: linear-gradient(to right,#8BACCD, #87AECE, #85B0CF, #85AFCE, #998AC5, #0B0E11, #39364B);
 }
 
 .footer-text {
